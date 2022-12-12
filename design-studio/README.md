@@ -1,6 +1,9 @@
 # PetriNetDesignStudio
+
 ## Installation
+
 First, install the PetriNetDesignStudio following:
+
 - [NodeJS](https://nodejs.org/en/) (LTS recommended)
 - [MongoDB](https://www.mongodb.com/)
 
