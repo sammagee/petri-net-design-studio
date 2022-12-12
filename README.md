@@ -44,4 +44,4 @@ Navigate to the design studio directory `cd petri-net-design-studio`. Then, run 
 
 ## Future
 
-To complete this design studio, I will be completing the PetriNetVisualizer. Unfortunately, due to family and pet purposes, I was unable to complete the vizualizer to my satisfaction. This vizualizer will allow the user to create a model, and then see the model in action. The vizualizer will be able to show the state of the system at any given time, and will be able to show the flow of information between the places and transitions.
+To complete this design studio, I will be completing the PetriNetVisualizer. Unfortunately, due to family, pet, and job purposes, I was unable to complete the vizualizer to my satisfaction. This vizualizer will allow the user to create a model, and then see the model in action. The vizualizer will be able to show the state of the system at any given time, and will be able to show the flow of information between the places and transitions.
