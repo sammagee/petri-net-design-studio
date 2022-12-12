@@ -5,9 +5,11 @@
 This custom design studio provides a simulator, interpreter, and example of the model for a Petri Net.
 
 **What is a Petri Net?**
+
 A Petri Net is a graphical representation, consisting of a directed bipartite graph, which is made up of two types of elements: places and transitions. Places represent the state of the system, and transitions represent the events or actions that can occur in the system. The places and transitions are connected by arcs, which represent the flow of information or control between them.
 
 **When is a Petri Net useful?**
+
 A Petri Net can be useful to model a complex concurrent or distributed system because it gives a clear vizualization of the state of the system at any given time.
 
 ## Installation
@@ -24,9 +26,15 @@ Second, start mongodb locally by running the `mongod` executable in your mongodb
 docker run --name my-mongo -d -p 27017:27017 mongo:4.4
 ```
 
+Clone this repository locally
+
+```bash
+git clone https://github.com/sammagee/petri-net-design-studio.git
+```
+
 ## Usage
 
-Run `webgme start` from the project root to start the project. Finally, navigate to `http://localhost:8888` to start using PetriNetDesignStudio!
+Navigate to the design studio directory `cd petri-net-design-studio`. Then, run `webgme start` from the project root to start the project. This will install dependencies and start the web server. Finally, navigate to `http://localhost:8888` to start using PetriNetDesignStudio!
 
 ## Screenshots
 
